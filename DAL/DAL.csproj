@@ -44,6 +44,8 @@
     <Compile Include="Model2.cs" />
     <Compile Include="Model3.cs" />
     <Compile Include="Model4.cs" />
+    <Compile Include="Model5.cs" />
+    <Compile Include="Model6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

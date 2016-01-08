@@ -53,4 +53,3 @@ var SocialLogin = (function (_super) {
 var faceLogin = new SocialLogin("Bora", "1234");
 alert(faceLogin.DomainLogin());
 alert(faceLogin.FaceLogin("FaceBora", "654321"));
-//# sourceMappingURL=LID.js.map

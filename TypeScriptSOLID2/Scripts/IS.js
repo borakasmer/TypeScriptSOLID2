@@ -20,4 +20,3 @@ rbt.Dur();
 isc.Calis();
 isc.Dur();
 isc.YemekYe();
-//# sourceMappingURL=IS.js.map
